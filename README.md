@@ -8,6 +8,6 @@ You can clone this repo - run "$npm install", then "$node index.js". If there is
 
 Technologies used in this project: React.js (front-end), Bootstrap (front-end styles), Node.js (server), MongoDB (client running on Node). 
 
-The project features the ability to create accounts which persist over time, using the Mongo DB as well as React context to share data over the app. 
+The project features the ability to create accounts which persist over time, using MongoDB as well as React context to share data over the app. 
 
 MIT License
